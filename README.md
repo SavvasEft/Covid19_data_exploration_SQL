@@ -11,4 +11,4 @@ The data was first edited in excel, and broken into two .csv files, with four co
 
 The data was uploaded in Google BigQuery, where the queries were run.
 
-Project by Alex Freberg - Alex The Analyst
+Project taught by Alex Freberg - Alex The Analyst
